@@ -108,8 +108,8 @@ Explain what the project does and its main functionality.
 
 ## 📫 Connect With Me
 
-* 💼 LinkedIn: https://linkedin.com/in/your-link
-* 📧 Email: [your-email@gmail.com](mailto:your-email@gmail.com)
+* 💼 LinkedIn: https://www.linkedin.com/in/aman-v-697771345
+* 📧 Email: [amanguraul@gmail.com](mailto:amangurauli@gmail.com)
 * 🐙 GitHub: https://github.com/Amanvarma2231
 
 ---
