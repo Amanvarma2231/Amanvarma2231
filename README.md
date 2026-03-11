@@ -4,7 +4,7 @@
 **Amanvarma2231/Amanvarma2231** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 # Hi 👋, I'm Aman Verma
 
-🎓 **3rd Year Computer Science Engineering Student**
+🎓 **I am Pursuing B.Tech in Computer Science Engineering Student**
 🏫 NITRA Technical Campus
 💡 Passionate about **AI, Web Development, and building real-world tech solutions**
 
@@ -26,9 +26,9 @@ I enjoy creating applications that solve real problems and improve people's live
 
 ### 💻 Programming Languages
 
+* Python
 * C++
 * JavaScript
-* Python
 * Java
 
 ### 🌐 Web Development
@@ -37,13 +37,12 @@ I enjoy creating applications that solve real problems and improve people's live
 * CSS
 * JavaScript
 * React.js
-* Node.js
-* Express.js
 
 ### 🗄️ Database
 
 * MongoDB
 * MySQL
+* SQLite 
 
 ### ☁️ Tools & Technologies
 
